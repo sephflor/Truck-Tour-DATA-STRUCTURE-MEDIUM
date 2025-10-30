@@ -1,1 +1,1 @@
-# Truck-Tour-DATA-STRUCTURE-MEDIUM
+# Truck-Tour-DATA-STRUCTURE-MEDIUM.This solution finds the starting petrol pump where a truck can complete a circular tour by maintaining a running total of petrol and resetting the start position whenever the current petrol becomes negative, ensuring we find the valid starting point if total petrol exceeds total distance.
